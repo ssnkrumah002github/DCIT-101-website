@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+  }
+  img {
+    width: 100%;
+  }
+ .images {
+     
+     margin-left: 55px;
+ }
+ .google {
+     margin-left: 45px;
+ }
+ .home {
+     margin-left: 50px;
+ }
+ .email {
+     margin-left: 65px;
+ }
+ .logout {
+ margin-left: 825px;
+ }
+ .comment {
+     margin-left: 10px;
+ }
+ .myself {
+   
+     margin-left: 85px;
+ }
+ .name {
+     margin-left: 50px;
+ }
+ .jump {
+     margin-left: 30px;
+ }
+ 
